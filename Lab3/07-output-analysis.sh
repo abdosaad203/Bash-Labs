@@ -28,13 +28,13 @@
 #     print $n2       # This line is never executed
 # done
 
-# =========================
+# ================================================================================
 # Explanation:
 # The loop runs only once.
 # n1 starts as 1 and n2 becomes 2 inside the loop.
 # The continue statement skips incrementing n1.
 # When the loop condition is checked again, n1 != n2, so the loop ends.
 #
-# =========================
+# ===================================================================================
 # Output:
 # 1
